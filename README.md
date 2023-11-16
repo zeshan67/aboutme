@@ -64,7 +64,7 @@ Responsibilities:
 • Interactive demonstrations of EMK Center MakerLab’s AR & VR resources among cohorts & center visitors.
 
 ### Mentor (Jauary 2015- December 2015)
-**Bangladesh Science Outreach, USAID & University of Dhaka, Dhaka, Bangladesh**
+**[Bangladesh Science Outreach](https://www.facebook.com/bangladeshscienceoutreach), USAID & University of Dhaka, Dhaka, Bangladesh**
 Responsibilities:
 • Responsible for development of workshop for middle school children to ingnite interest towards STEM education.
 • Conduction of workshops with self developed experiment materials suitable for middle school children.
@@ -96,19 +96,19 @@ Youth network based in Asia working towards climate conciousness and climate jus
 **Mentor**
 
 ## HONORS & AWARDS:
-### • UNI Portfolio Award 2021
+### • [UNI Portfolio Award 2021](https://uni.xyz/competitions/upa-21/entries)
 Editor’s Choice Award, May 2021, Selected as one of top 5 entries from a global pool of 400.
-### •UNI Architectural Thesis Award 2021
+### • [UNI Architectural Thesis Award 2021](https://uni.xyz/competitions/uniata-21/entries)
 Editor’s Choice Award, March 2021, Selected as one of top 5 entries from a global pool of 400.
-### •BeeBreeders Essay Competition: Ofﬁce Architecture
+### • [BeeBreeders Essay Competition: Ofﬁce Architecture](https://architecturecompetitions.com/officearchitecture/#)
 Honorable Mention, February 2022, Submission: Beyond Cycle towards evolution
-### •Microsoft Imagine Cup 2016, Bangladesh
+### • [Microsoft Imagine Cup 2016, Bangladesh](https://imaginecup.microsoft.com/en-us/competition/17427)
 National First Runner Up, June 2016, Project: Metrav, A urban mobility system
-### •IDCOL Head ofﬁce design Competition
+### • [IDCOL Head ofﬁce design Competition](https://contextbd.com/project-showcase-idcol-green-building-design-competition-2018/)
 Special Mention, December 2018, Team SAA, National design competition by Institute of Architects, Bangladesh
-### •Affordable Housing design competition for low income people at Dholpur, Savar
+### • [Affordable Housing design competition for low income people at Dholpur, Savar](https://issuu.com/saarchitects.bd/docs/build_bangladesh_compilded_1/1)
 Honorable Mention, December 2019, Team SAA, National design competition by IAB
-### •Institute of Architects Bangladesh Student festival 2018, Best graduation project
+### • [Institute of Architects Bangladesh Student festival 2018](https://www.facebook.com/archnewsbuet/posts/714031978989800?ref=embed_post), Best graduation project
 Second Runner up,November 2018, Awarded from the pool of 650 graduating projects in the nation.
 
 ## FELLOWSHIPS:
@@ -155,6 +155,14 @@ Presentation at the [P4G Summit, Seoul](https://p4gpartnerships.org/news-events/
 Project Involvements: Welcome Wildcat 2023, Campus Map & Guide.
 Responsibilities:
 • Layout design, advertisement design, digital curation of assets & publication supervision.
+
+## Projects:
+### [Architectural projects](https://www.asifhasanzeshan.xyz/projects)
+### Educational Visualization
+Revolutionized STEM education for middle and high school students in Bangladesh by creatively designing and implementing diverse, engaging curriculum content for multiple Ed-Tech startups like [Progga](https://play.google.com/store/apps/details?id=io.progga.app&hl=en_US&gl=US&pli=1) and [Banglar Math](https://draft.banglarmath.com/), combining strategic planning with dynamic voiceovers. [Content](https://www.youtube.com/watch?v=d57oobCrmGU) covered breakdown explaination of scientific contents for mass audience.
+## STEM Podcast
+Crafted a series of inspirational podcasts called [EMK MakerCast](https://www.youtube.com/watch?v=YVrZPyGXq50&list=PLGjf1T0akmhNQ72q7aaOFNktSOMhxOA0F) in partnership with the EMK Center to ignite passion for STEM education in Bangladesh. This groundbreaking initiative showcased the country's top experts in 3D modeling, AR/VR, game design, e-gaming, and women's achievements in STEM, strategically weaving their insights into a captivating auditory experience.
+
 
 ## TECHNICAL SKILLS:
 ### Computer Aided Design Tools:
