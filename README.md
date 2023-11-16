@@ -70,27 +70,74 @@ Responsibilities:
 • Responsible for development of workshop for middle school children to ingnite interest towards STEM education.
 • Conduction of workshops with self developed experiment materials suitable for middle school children.
 
+## PROFESSIONAL EXPERIENCES:
+### Architect (December 2020- February 2022)
+**Planning & Development Division, US-Bangla Assets Limited, US-Bangla Group,**
+77, Baridhara Diplomatic Zone, Dhaka-1212.
+Project Involvements: Purbachal Americal City, US-Bangla Aviation expansion & ﬂying academy.
+Responsibilities:
+• Design, drawing & construction supervision of infrastructure projects supporting PAC, Bangladesh’s ﬁrst smart city.
+• Survey, design, supervision and retroﬁtting expansion of companies assets in the National Airports in Bangladesh.
+### Creative Lead (March 2016- August 2019)
+**WIRE Digital Multimedia Marketing Agency,** 
+H40,R5,Block G, Banani Model Town, Dhaka, Bangladesh-1213.
+Responsibilities:
+• Strategize and design visual communications for local brands to generate their online and ofﬂine presence.
+• Optimize and create opportunities to enhance user perticipation with brand design and marketing elements.
+### Architectural Intern (October 2019- February 2020)
+**SAA**
+Banani Model Town, Dhaka-1213.
+
 ## AFFILIATIONS
 ### Placemaking Bangladesh 
 A non-profit based in Bangladesh working to ensure accssible public spaces for everyone
 **Founder**
-### Institute of Architects, Bangladesh
-**Associate Member**
 ### Asian Environmental Youth Network
+Youth network based in Asia working towards climate conciousness and climate justice in the continent
 **Mentor**
 
-## HONORS & AWARDS:##
-### • UNI Portfolio Award 2021**
+## HONORS & AWARDS:
+### • UNI Portfolio Award 2021
 Editor’s Choice Award, May 2021, Selected as one of top 5 entries from a global pool of 400.
-### •UNI Architectural Thesis Award 2021**
+### •UNI Architectural Thesis Award 2021
 Editor’s Choice Award, March 2021, Selected as one of top 5 entries from a global pool of 400.
-### •BeeBreeders Essay Competition: Ofﬁce Architecture**
+### •BeeBreeders Essay Competition: Ofﬁce Architecture
 Honorable Mention, February 2022, Submission: Beyond Cycle towards evolution
-### •Microsoft Imagine Cup 2016, Bangladesh**
+### •Microsoft Imagine Cup 2016, Bangladesh
 National First Runner Up, June 2016, Project: Metrav, A urban mobility system
-### •IDCOL Head ofﬁce design Competition**
+### •IDCOL Head ofﬁce design Competition
 Special Mention, December 2018, Team SAA, National design competition by Institute of Architects, Bangladesh
-### •Affordable Housing design competition for low income people at Dholpur, Savar**
+### •Affordable Housing design competition for low income people at Dholpur, Savar
 Honorable Mention, December 2019, Team SAA, National design competition by IAB
-### •Institute of Architects Bangladesh Student festival 2018, Best graduation project**
+### •Institute of Architects Bangladesh Student festival 2018, Best graduation project
 Second Runner up,November 2018, Awarded from the pool of 650 graduating projects in the nation.
+
+## FELLOWSHIPS:
+### Roots for Resilience (R4R) Data Science fellowship,
+Data Science Institute, Arizona Institute of Resilience, University of Arizona Research Innovation & Impact, September 2023
+
+## SCHOLARSHIPS & GRANTS:
+### • Graduate Tuition Scholarship, August 2022
+Awarded by College of Architecture, Planning and Landscape Architecture for ﬁrst 2 semesters of MS.Arch Program
+### • CAPLA City Immersion Travel Grant, January 2023
+Only graduate student to recieve $3,133 grant awarded by CAPLA & Friedmann foundation to explore North American cities.
+### • Erusmus Mundus-Transition, Innovation, Sunstainability and Environment, June 2022
+Selected as the only candidate from Bangladesh to attend European Union funded TISE program with full funding & stipend.
+### •BUET Technical Scholarship, February 2013
+Tuition waiver and stipend to fund for undergraduate study for excellent academic standings on the higher secondary level.
+
+## LISCENCES & CERTIFICATIONS:
+### • Associate Member, Institute of Architects Bangladesh,
+August 2021
+### • Certiﬁed AI professional, IBM
+August 2023
+### Certiﬁed AR Developer, Meta,
+August 2023
+### Certiﬁcation on Smart City, ETHx, ETH Zurich
+August 2020
+
+## PUBLICATION:
+• Zeshan, A. H., & Dickinson, S. (2023, November). Meta-morphing architectural domains: The Role of Human and AI in
+Post-Human Architecture. Paper to be presented at the xArch Symposium 2023, Xi'an Jiaotong-Liverpool University,
+Suzhou, China. (Status: Pre-print, https://www.xarchsymposium.com/preprints)
+
