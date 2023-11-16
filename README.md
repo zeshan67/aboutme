@@ -1,3 +1,5 @@
+# Architect, Computational Designer & Advocate for accessible public spaces
+
 ## EDUCATION
 ### Master of Science in Architecture (MS.Arch.)
 **[College of Architecture, Planning & Landscape Architecture](https://capla.arizona.edu/), [University of Arizona](https://www.arizona.edu/)**
