@@ -1,6 +1,3 @@
-# ASIF HASAN ZESHAN
-Architect finding ways in Post Humanist Design
-
 ## EDUCATION
 ### Master of Science in Architecture (MS.Arch.)
 **College of Architecture, Planning & Landscape Architecture, University of Arizona**
