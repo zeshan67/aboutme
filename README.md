@@ -97,6 +97,7 @@ Youth network based in Asia working towards climate conciousness and climate jus
 **Mentor**
 
 ## HONORS & AWARDS:
+![MetRAV_MS2016](https://github.com/zeshan67/aboutme/assets/94588272/084710ca-898e-4807-9ac1-275b8a4cdcfc)
 ### • [UNI Portfolio Award 2021](https://uni.xyz/competitions/upa-21/entries)
 Editor’s Choice Award, May 2021, Selected as one of top 5 entries from a global pool of 400.
 ### • [UNI Architectural Thesis Award 2021](https://uni.xyz/competitions/uniata-21/entries)
@@ -104,7 +105,7 @@ Editor’s Choice Award, March 2021, Selected as one of top 5 entries from a glo
 ### • [BeeBreeders Essay Competition: Ofﬁce Architecture](https://architecturecompetitions.com/officearchitecture/#)
 Honorable Mention, February 2022, Submission: Beyond Cycle towards evolution
 ### • [Microsoft Imagine Cup 2016, Bangladesh](https://imaginecup.microsoft.com/en-us/competition/17427)
-National First Runner Up, June 2016, Project: Metrav, A urban mobility system
+[National First Runner Up](https://www.facebook.com/MicrosoftStudentBangladesh/posts/pfbid031cCbseKvr8g9hSVVMJULTbC83Zv7eXbniuiarRXUQTeoasiLgtJSN7hNuzAHecLql), June 2016, Project: Metrav, An urban mobility system
 ### • [IDCOL Head ofﬁce design Competition](https://contextbd.com/project-showcase-idcol-green-building-design-competition-2018/)
 Special Mention, December 2018, Team SAA, National design competition by Institute of Architects, Bangladesh
 ### • [Affordable Housing design competition for low income people at Dholpur, Savar](https://issuu.com/saarchitects.bd/docs/build_bangladesh_compilded_1/1)
@@ -142,6 +143,7 @@ Post-Human Architecture. Paper to be presented at the xArch Symposium 2023, Xi'a
 Suzhou, China. (Status: [Pre-print](https://www.xarchsymposium.com/preprints))
 
 ## CONFERENCE PRESENTATION:
+![Conference_pres](https://github.com/zeshan67/aboutme/assets/94588272/9b099b04-d652-475e-a3bd-da26d48856e1)
 ### Zahin, H. A., & Zeshan, A. H. (2022, April). Habitat 2.0: Design Approach toward a transplanetary multispecies settlement for coexistence. 
 Presentation at the [Bio-Futures for Transplanetary Habitats Symposium](http://bbe.ac.uk/bffth-symposium/), organized by Hub for
 Biotechnology in the Built Environment (HBBE), Newcastle University, United Kingdom. (Hybrid event).
@@ -158,6 +160,7 @@ Responsibilities:
 • Layout design, advertisement design, digital curation of assets & publication supervision.
 
 ## Projects:
+![The_Long_Render](https://github.com/zeshan67/aboutme/assets/94588272/c9a7397c-10c3-41c2-bdbd-2e0b0973ceef)
 ### [Architectural projects](https://www.asifhasanzeshan.xyz/projects)
 ### Educational Visualization
 Revolutionized STEM education for middle and high school students in Bangladesh by creatively designing and implementing diverse, engaging curriculum content for multiple Ed-Tech startups like [Progga](https://play.google.com/store/apps/details?id=io.progga.app&hl=en_US&gl=US&pli=1) and [Banglar Math](https://draft.banglarmath.com/), combining strategic planning with dynamic voiceovers. [Content](https://www.youtube.com/watch?v=d57oobCrmGU) covered breakdown explaination of scientific contents for mass audience.
