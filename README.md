@@ -141,3 +141,43 @@ August 2020
 Post-Human Architecture. Paper to be presented at the xArch Symposium 2023, Xi'an Jiaotong-Liverpool University,
 Suzhou, China. (Status: Pre-print, https://www.xarchsymposium.com/preprints)
 
+## CONFERENCE PRESENTATION:
+### Zahin, H. A., & Zeshan, A. H. (2022, July). Habitat 2.0: Design Approach toward a transplanetary multispecies settlement for coexistence. 
+Presentation at the Bio-Futures for Transplanetary Habitats Symposium, organized by Hub for
+Biotechnology in the Built Environment (HBBE), Newcastle University, United Kingdom. (Hybrid event).
+## Zeshan, A. H. (2023, November). Rediscovering places: Learning backwards in time
+Presentation at the Global Placemaking Summit 2023 organized by Placemaking X, Mexico City
+
+## EDITORIAL EXPERIENCE:
+**Creative Lead (Summer 2023)**
+Arizona Student Media, University of Arizona
+Project Involvements: Welcome Wildcat 2023, Campus Map & Guide.
+Responsibilities:
+• Layout design, advertisement design, digital curation of assets & publication supervision.
+
+## TECHNICAL SKILLS:
+### Computer Aided Design Tools:
+**Proﬁcient in:** Autodesk AutoCAD, Graphisoft ArchiCAD, Autodesk Revit, Rhinoceros 3D, Sketchup.
+
+### Programming and visual programming Tools:
+**Proﬁcient in:** Grasshopper,
+**Knowledge of:** Python, R Programming, Dynamo, Javascript, Arduino & C#
+
+### Rendering, 3D interactive and 3D visualization tools:
+**Proﬁcient in:** Enscape, V-Ray. 
+**Knowledge of:** Lumion, Unity (Vuforia SDK)
+
+### 2D visualization & User experience tools:
+**Proﬁcient in:** Adobe Creative Suite (Photoshop, Illustrator, Indesign, XD), 
+**Knowledge of:** Figma
+
+## REFERENCES:
+### • Dr. Khandaker Shabbir Ahmed
+Professor, Department of Architecture, Bangladesh University of Engineering & Technology, Dhaka, Bangladesh
+President, Institute of Architects, Bangladesh
+Email: shabbir@arch.buet.ac.bd
+
+### • Susannah Dickinson
+Associate Professor, College of Architecture, Planning & Landscape Architecture,
+University of Arizona, Tucson, Arizona, United States.
+Email: srd@arizona.edu
