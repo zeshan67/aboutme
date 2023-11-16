@@ -1,6 +1,3 @@
-![Headshot_Compressed](https://github.com/zeshan67/aboutme/assets/94588272/a9fb5c43-700d-49db-b621-081967b1bbcb)
-
-
 ## EDUCATION
 ### Master of Science in Architecture (MS.Arch.)
 **[College of Architecture, Planning & Landscape Architecture](https://capla.arizona.edu/), [University of Arizona](https://www.arizona.edu/)**
