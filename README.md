@@ -1,8 +1,8 @@
-# Architect, Computational Designer & Advocate for accessible public spaces
+# **Architect, Computational Designer & Advocate for accessible public spaces**
 
 ## [Website](https://www.asifhasanzeshan.xyz/) | [Linkedin](https://www.linkedin.com/in/zeshan67/) | [Mail](mailto:asifzeshan67@gmail.com)
 
-## EDUCATION
+## **EDUCATION**
 ### Master of Science in Architecture (MS.Arch.)
 **[College of Architecture, Planning & Landscape Architecture](https://capla.arizona.edu/), [University of Arizona](https://www.arizona.edu/)**
 
@@ -25,7 +25,7 @@ Supervisor: Professor Dr. Khandaker Shabbir Ahmed, Professor, BUET
 • Integration of Post human intelligence in architectural and visual communication
 • Interaction design and immersiveness between cyber and physcal spaces
 
-## RESEARCH EXPERIENCE
+## **RESEARCH EXPERIENCE**
 ### Graduate Research Assistant-HSL Drachman (September 2022- Present)
 **Drachman Institute, College of Architecture, Planning & Landscape Architecture, University of Arizona**
 
@@ -44,7 +44,7 @@ Research Domain(s):
 • Experimenting with the possibility of recycling sawdust of Mesquite timber construction as a 3D print material
 • Creating window to maximize material efﬁciency in the Sonoran desert.
 
-## TEACHING & MENTORING EXPERIENCE:
+## **TEACHING & MENTORING EXPERIENCE:**
 
 ### Graduate Teaching Assistant (January 2023-Present)
 **College of Architecture, Planning & Landscape Architecture, University of Arizona**
