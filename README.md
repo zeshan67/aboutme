@@ -219,6 +219,9 @@ Presentation at the [Global Placemaking Summit 2023](https://www.placemakingx.or
 Presentation at the [P4G Summit, Seoul](https://p4gpartnerships.org/news-events/2021-p4g-seoul-summit), Republic of Korea
 
 ## EDITORIAL EXPERIENCE:
+
+![Wildcat](https://github.com/zeshan67/aboutme/assets/94588272/8d0e37d7-0510-403b-8188-ce688fbc0231)
+
 ### Creative Lead (Summer 2023)
 [Arizona Student Media](https://studentmedia.arizona.edu/), University of Arizona
 
