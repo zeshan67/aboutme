@@ -1,5 +1,5 @@
 ![Headshot_Compressed](https://github.com/zeshan67/aboutme/assets/94588272/a9fb5c43-700d-49db-b621-081967b1bbcb)
-#### Asif Hasan Zeshan
+##### Asif Hasan Zeshan
 
 ## EDUCATION
 ### Master of Science in Architecture (MS.Arch.)
@@ -162,7 +162,7 @@ Responsibilities:
 ## Projects:
 ![The_Long_Render](https://github.com/zeshan67/aboutme/assets/94588272/c9a7397c-10c3-41c2-bdbd-2e0b0973ceef)
 ### Architectural projects
-In diverse academic, competitive, and professional spheres, I've delivered a series of innovative architectural projects, garnering numerous national and international honors. My portfolio highlights my focus on integrating cutting-edge technology into architectural practices and advancing energy efficiency.Samples of my work can be found on my portfolio [website](https://www.asifhasanzeshan.xyz/projects)
+In diverse academic, competitive, and professional spheres, I've delivered a series of innovative architectural projects, garnering numerous national and international honors. My portfolio highlights my focus on integrating cutting-edge technology into architectural practices and advancing energy efficiency.Samples of my work can be found on my portfolio [website](https://www.asifhasanzeshan.xyz/projects).
 
 ### Educational Visualization
 Revolutionized STEM education for middle and high school students in Bangladesh by creatively designing and implementing diverse, engaging curriculum content for multiple Ed-Tech startups like [Progga](https://play.google.com/store/apps/details?id=io.progga.app&hl=en_US&gl=US&pli=1) and [Banglar Math](https://draft.banglarmath.com/), combining strategic planning with dynamic voiceovers. [Content](https://www.youtube.com/watch?v=d57oobCrmGU) covered breakdown explaination of scientific contents for mass audience.
@@ -177,23 +177,23 @@ Crafted a series of inspirational podcasts called [EMK MakerCast](https://www.yo
 
 ### Programming and visual programming Tools:
 **Proﬁcient in:** Grasshopper,
-**Knowledge of:** Python, R Programming, Dynamo, Javascript, Arduino & C#
+**Knowledge of:** Python, R Programming, Dynamo, Javascript, Arduino & C#.
 
 ### Rendering, 3D interactive and 3D visualization tools:
 **Proﬁcient in:** Enscape, V-Ray. 
-**Knowledge of:** Lumion, Unity (Vuforia SDK)
+**Knowledge of:** Lumion, Unity (Vuforia SDK).
 
 ### 2D visualization & User experience tools:
 **Proﬁcient in:** Adobe Creative Suite (Photoshop, Illustrator, Indesign, XD), 
-**Knowledge of:** Figma
+**Knowledge of:** Figma.
 
 ## REFERENCES:
 ### • [Dr. Khandaker Shabbir Ahmed](https://www.khandakershabbirahmed.com/)
-Professor, Department of Architecture, Bangladesh University of Engineering & Technology, Dhaka, Bangladesh
-President, Institute of Architects, Bangladesh
+Professor, Department of Architecture, Bangladesh University of Engineering & Technology, Dhaka, Bangladesh.<br />
+President, Institute of Architects, Bangladesh <br />
 Email: shabbir@arch.buet.ac.bd
 
 ### • [Susannah Dickinson](https://capla.arizona.edu/faculty-staff/susannah-dickinson)
-Associate Professor, College of Architecture, Planning & Landscape Architecture,
+Associate Professor, College of Architecture, Planning & Landscape Architecture, <br />
 University of Arizona, Tucson, Arizona, United States.
 Email: srd@arizona.edu
