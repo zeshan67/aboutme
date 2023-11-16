@@ -2,13 +2,13 @@
 
 ## EDUCATION
 ### Master of Science in Architecture (MS.Arch.)
-**College of Architecture, Planning & Landscape Architecture, University of Arizona**
+**[College of Architecture, Planning & Landscape Architecture](https://capla.arizona.edu/), [University of Arizona](https://www.arizona.edu/)**
 Expected: Spring 2024
 Thesis title: “Integrating Artiﬁcial Intelligence in post-humanist architectural design process”
 Advisor: Ms. Susannah R. Dickinson, Associate Professor, CAPLA, University of Arizona.
 
 ### Bachelor of Architecture (B.Arch.)
-**Department of Architecture, Bangladesh University of Engineering & Technology (BUET)**
+**[Department of Architecture](https://arch.buet.ac.bd/), [Bangladesh University of Engineering & Technology (BUET)](https://www.buet.ac.bd/web/)**
 February 2021
 Graduation project title: “Workspace 2070: A glimpse into the future of workspace architecture”
 Supervisor: Professor Dr. Khandaker Shabbir Ahmed, Professor, BUET
@@ -51,13 +51,13 @@ Research Domain(s):
   • Responsible for grading management and help with evaluation of student’s work process.
 
 ### Lecturer (December 2021-September 2022)
-**Department of Architecture, Bangladesh University**
+**[Department of Architecture, Bangladesh University](https://bu.edu.bd/faculties/faculty-of-science-engineering-technology/architecture/)**
 Tought Courses: ARC-2111: Design Studio-III, ARC-1253: Environment & Design- I,
 Responsibilities:
 •Responsible for development of curriculum, lecture preparation, conducting classes & tests and, checking scripts.
 
 ### Instructor (June 2020- July 2022)
-**MakerLab, Edward M. Kennedy Center, Amercian Center, Dhaka, Bangladesh**
+**[MakerLab](https://emkcenter.org/pillars/makerlab/), Edward M. Kennedy Center, Amercian Center, Dhaka, Bangladesh**
 Tought Courses: Fundamentals of 3D Modeling, Fundamentals of AR,VR & XR, Introduction to VR evironments.
 Responsibilities:
 • Responsible for development of workshop, lecture preparation, conducting sessions and, checking submissions.
@@ -71,14 +71,14 @@ Responsibilities:
 
 ## PROFESSIONAL EXPERIENCES:
 ### Architect (December 2020- February 2022)
-**Planning & Development Division, US-Bangla Assets Limited, US-Bangla Group,**
+**Planning & Development Division, [US-Bangla Assets Limited](https://www.usbassets.com/), US-Bangla Group,**
 77, Baridhara Diplomatic Zone, Dhaka-1212.
 Project Involvements: Purbachal Americal City, US-Bangla Aviation expansion & ﬂying academy.
 Responsibilities:
 • Design, drawing & construction supervision of infrastructure projects supporting PAC, Bangladesh’s ﬁrst smart city.
 • Survey, design, supervision and retroﬁtting expansion of companies assets in the National Airports in Bangladesh.
 ### Creative Lead (March 2016- August 2019)
-**WIRE Digital Multimedia Marketing Agency,** 
+**[WIRE Digital Multimedia Marketing Agency](https://wiredmm.com/),** 
 H40,R5,Block G, Banani Model Town, Dhaka, Bangladesh-1213.
 Responsibilities:
 • Strategize and design visual communications for local brands to generate their online and ofﬂine presence.
@@ -88,10 +88,10 @@ Responsibilities:
 Banani Model Town, Dhaka-1213.
 
 ## AFFILIATIONS
-### Placemaking Bangladesh 
+### [Placemaking Bangladesh](https://www.facebook.com/placemakingbangladesh/)
 A non-profit based in Bangladesh working to ensure accssible public spaces for everyone
 **Founder**
-### Asian Environmental Youth Network
+### [Asian Environmental Youth Network](https://www.aeyn.org/)
 Youth network based in Asia working towards climate conciousness and climate justice in the continent
 **Mentor**
 
@@ -112,14 +112,14 @@ Honorable Mention, December 2019, Team SAA, National design competition by IAB
 Second Runner up,November 2018, Awarded from the pool of 650 graduating projects in the nation.
 
 ## FELLOWSHIPS:
-### Roots for Resilience (R4R) Data Science fellowship,
+### [Roots for Resilience (R4R) Data Science fellowship](https://datascience.arizona.edu/person/asif-zeshan),
 Data Science Institute, Arizona Institute of Resilience, University of Arizona Research Innovation & Impact, September 2023
 
 ## SCHOLARSHIPS & GRANTS:
 ### • Graduate Tuition Scholarship, August 2022
 Awarded by College of Architecture, Planning and Landscape Architecture for ﬁrst 2 semesters of MS.Arch Program
 ### • CAPLA City Immersion Travel Grant, January 2023
-Only graduate student to recieve $3,133 grant awarded by CAPLA & Friedmann foundation to explore North American cities.
+Awarded by CAPLA & Friedmann foundation to explore North American cities.
 ### • Erusmus Mundus-Transition, Innovation, Sunstainability and Environment, June 2022
 Selected as the only candidate from Bangladesh to attend European Union funded TISE program with full funding & stipend.
 ### •BUET Technical Scholarship, February 2013
@@ -138,18 +138,20 @@ August 2020
 ## PUBLICATION:
 • Zeshan, A. H., & Dickinson, S. (2023, November). Meta-morphing architectural domains: The Role of Human and AI in
 Post-Human Architecture. Paper to be presented at the xArch Symposium 2023, Xi'an Jiaotong-Liverpool University,
-Suzhou, China. (Status: Pre-print, https://www.xarchsymposium.com/preprints)
+Suzhou, China. (Status: [Pre-print](https://www.xarchsymposium.com/preprints))
 
 ## CONFERENCE PRESENTATION:
-### Zahin, H. A., & Zeshan, A. H. (2022, July). Habitat 2.0: Design Approach toward a transplanetary multispecies settlement for coexistence. 
-Presentation at the Bio-Futures for Transplanetary Habitats Symposium, organized by Hub for
+### Zahin, H. A., & Zeshan, A. H. (2022, April). Habitat 2.0: Design Approach toward a transplanetary multispecies settlement for coexistence. 
+Presentation at the [Bio-Futures for Transplanetary Habitats Symposium](http://bbe.ac.uk/bffth-symposium/), organized by Hub for
 Biotechnology in the Built Environment (HBBE), Newcastle University, United Kingdom. (Hybrid event).
 ## Zeshan, A. H. (2023, November). Rediscovering places: Learning backwards in time
-Presentation at the Global Placemaking Summit 2023 organized by Placemaking X, Mexico City
+Presentation at the [Global Placemaking Summit 2023](https://www.placemakingx.org/summit23#leaders) organized by Placemaking X, Mexico City
+## Zeshan, A. H. (2021, May), Hero4Zero, A sustainable supply chain ideology based on the idea of zero waste
+Presentation at the [P4G Summit, Seoul](https://p4gpartnerships.org/news-events/2021-p4g-seoul-summit), Republic of Korea
 
 ## EDITORIAL EXPERIENCE:
 **Creative Lead (Summer 2023)**
-Arizona Student Media, University of Arizona
+[Arizona Student Media](https://studentmedia.arizona.edu/), University of Arizona
 Project Involvements: Welcome Wildcat 2023, Campus Map & Guide.
 Responsibilities:
 • Layout design, advertisement design, digital curation of assets & publication supervision.
@@ -171,12 +173,12 @@ Responsibilities:
 **Knowledge of:** Figma
 
 ## REFERENCES:
-### • Dr. Khandaker Shabbir Ahmed
+### • [Dr. Khandaker Shabbir Ahmed](https://www.khandakershabbirahmed.com/)
 Professor, Department of Architecture, Bangladesh University of Engineering & Technology, Dhaka, Bangladesh
 President, Institute of Architects, Bangladesh
 Email: shabbir@arch.buet.ac.bd
 
-### • Susannah Dickinson
+### • [Susannah Dickinson](https://capla.arizona.edu/faculty-staff/susannah-dickinson)
 Associate Professor, College of Architecture, Planning & Landscape Architecture,
 University of Arizona, Tucson, Arizona, United States.
 Email: srd@arizona.edu
