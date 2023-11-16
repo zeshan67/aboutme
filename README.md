@@ -248,7 +248,7 @@ Crafted a series of inspirational podcasts called [EMK MakerCast](https://www.yo
 
 **Proﬁcient in:** Grasshopper,
 
-**Knowledge of:** Python, R Programming, Dynamo, Javascript, Arduino & C#.
+**Knowledge of:** Python, R Programming, Dynamo, Javascript, Arduino & C#, Pytorch3D Deep Learning
 
 ### Rendering, 3D interactive and 3D visualization tools:
 
