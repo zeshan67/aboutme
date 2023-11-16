@@ -2,13 +2,13 @@
 Architect finding ways in Post Humanist Design
 
 ## EDUCATION
-### Master of Science in Architecture (MS.Arch.)###
+### Master of Science in Architecture (MS.Arch.)
 **College of Architecture, Planning & Landscape Architecture, University of Arizona**
 Expected: Spring 2024
 Thesis title: “Integrating Artiﬁcial Intelligence in post-humanist architectural design process”
 Advisor: Ms. Susannah R. Dickinson, Associate Professor, CAPLA, University of Arizona.
 
-### Bachelor of Architecture (B.Arch.)###
+### Bachelor of Architecture (B.Arch.)
 **Department of Architecture, Bangladesh University of Engineering & Technology (BUET)**
 February 2021
 Graduation project title: “Workspace 2070: A glimpse into the future of workspace architecture”
@@ -19,14 +19,14 @@ Supervisor: Professor Dr. Khandaker Shabbir Ahmed, Professor, BUET
 • Interaction design and immersiveness between cyber and physcal spaces
 
 ## RESEARCH EXPERIENCE
-### Graduate Research Assistant-HSL Drachman** (September 2022- Present)###
+### Graduate Research Assistant-HSL Drachman (September 2022- Present)
 **Drachman Institute, College of Architecture, Planning & Landscape Architecture, University of Arizona**
 Supervisor: Dr. Altaf Engineer & Dr. Sandra Bernal
 Research Domain(s):
 • Resarching the process of user centric design vision development process in a health science environment.
 • Developing a system of feedback oriented space planning system on the pre-design phase.
 
-### Graduate Research Assistant- NSF DISES** (September 2022- November 2022)###
+### Graduate Research Assistant- NSF DISES (September 2022- November 2022)
 **College of Architecture, Planning & Landscape Architecture, University of Arizona**
 Supervisor: Susannah Dickinson
 Research Domain(s):
@@ -35,7 +35,7 @@ Research Domain(s):
 
 ## TEACHING & MENTORING EXPERIENCE:
 
-### Graduate Teaching Assistant** (January 2023-Present)###
+### Graduate Teaching Assistant (January 2023-Present)
 **College of Architecture, Planning & Landscape Architecture, University of Arizona**
 
   *Spring 2023: ARC160D: Sonora*
@@ -51,21 +51,46 @@ Research Domain(s):
   • Aiding with sessional activities teaching computational simulation and construction process.
   • Responsible for grading management and help with evaluation of student’s work process.
 
-### Lecturer (December 2021-September 2022)###
+### Lecturer (December 2021-September 2022)
 **Department of Architecture, Bangladesh University**
 Tought Courses: ARC-2111: Design Studio-III, ARC-1253: Environment & Design- I,
 Responsibilities:
 •Responsible for development of curriculum, lecture preparation, conducting classes & tests and, checking scripts.
 
-### Instructor### (June 2020- July 2022)
+### Instructor (June 2020- July 2022)
 **MakerLab, Edward M. Kennedy Center, Amercian Center, Dhaka, Bangladesh**
 Tought Courses: Fundamentals of 3D Modeling, Fundamentals of AR,VR & XR, Introduction to VR evironments.
 Responsibilities:
 • Responsible for development of workshop, lecture preparation, conducting sessions and, checking submissions.
 • Interactive demonstrations of EMK Center MakerLab’s AR & VR resources among cohorts & center visitors.
 
-### Mentor### (Jauary 2015- December 2015)
+### Mentor (Jauary 2015- December 2015)
 **Bangladesh Science Outreach, USAID & University of Dhaka, Dhaka, Bangladesh**
 Responsibilities:
 • Responsible for development of workshop for middle school children to ingnite interest towards STEM education.
 • Conduction of workshops with self developed experiment materials suitable for middle school children.
+
+## AFFILIATIONS
+### Placemaking Bangladesh 
+A non-profit based in Bangladesh working to ensure accssible public spaces for everyone
+**Founder**
+### Institute of Architects, Bangladesh
+**Associate Member**
+### Asian Environmental Youth Network
+**Mentor**
+
+## HONORS & AWARDS:##
+### • UNI Portfolio Award 2021**
+Editor’s Choice Award, May 2021, Selected as one of top 5 entries from a global pool of 400.
+### •UNI Architectural Thesis Award 2021**
+Editor’s Choice Award, March 2021, Selected as one of top 5 entries from a global pool of 400.
+### •BeeBreeders Essay Competition: Ofﬁce Architecture**
+Honorable Mention, February 2022, Submission: Beyond Cycle towards evolution
+### •Microsoft Imagine Cup 2016, Bangladesh**
+National First Runner Up, June 2016, Project: Metrav, A urban mobility system
+### •IDCOL Head ofﬁce design Competition**
+Special Mention, December 2018, Team SAA, National design competition by Institute of Architects, Bangladesh
+### •Affordable Housing design competition for low income people at Dholpur, Savar**
+Honorable Mention, December 2019, Team SAA, National design competition by IAB
+### •Institute of Architects Bangladesh Student festival 2018, Best graduation project**
+Second Runner up,November 2018, Awarded from the pool of 650 graduating projects in the nation.
