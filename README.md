@@ -168,7 +168,7 @@ Data Science Institute, Arizona Institute of Resilience, University of Arizona R
 
 Awarded by College of Architecture, Planning and Landscape Architecture for ﬁrst 2 semesters of MS.Arch Program
 
-### • [CAPLA City Immersion Travel Grant, January 2023](https://capla.arizona.edu/students-career/scholarships)
+### • [CAPLA City Immersion Travel Grant](https://capla.arizona.edu/students-career/scholarships),January 2023
 
 Awarded by CAPLA & Friedmann foundation to explore North American cities.
 
