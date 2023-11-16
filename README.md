@@ -144,13 +144,13 @@ Suzhou, China. (Status: [Pre-print](https://www.xarchsymposium.com/preprints))
 ### Zahin, H. A., & Zeshan, A. H. (2022, April). Habitat 2.0: Design Approach toward a transplanetary multispecies settlement for coexistence. 
 Presentation at the [Bio-Futures for Transplanetary Habitats Symposium](http://bbe.ac.uk/bffth-symposium/), organized by Hub for
 Biotechnology in the Built Environment (HBBE), Newcastle University, United Kingdom. (Hybrid event).
-## Zeshan, A. H. (2023, November). Rediscovering places: Learning backwards in time
+### Zeshan, A. H. (2023, November). Rediscovering places: Learning backwards in time
 Presentation at the [Global Placemaking Summit 2023](https://www.placemakingx.org/summit23#leaders) organized by Placemaking X, Mexico City
-## Zeshan, A. H. (2021, May), Hero4Zero, A sustainable supply chain ideology based on the idea of zero waste
+### Zeshan, A. H. (2021, May), Hero4Zero, A sustainable supply chain ideology based on the idea of zero waste
 Presentation at the [P4G Summit, Seoul](https://p4gpartnerships.org/news-events/2021-p4g-seoul-summit), Republic of Korea
 
 ## EDITORIAL EXPERIENCE:
-**Creative Lead (Summer 2023)**
+### Creative Lead (Summer 2023)
 [Arizona Student Media](https://studentmedia.arizona.edu/), University of Arizona
 Project Involvements: Welcome Wildcat 2023, Campus Map & Guide.
 Responsibilities:
@@ -160,7 +160,7 @@ Responsibilities:
 ### [Architectural projects](https://www.asifhasanzeshan.xyz/projects)
 ### Educational Visualization
 Revolutionized STEM education for middle and high school students in Bangladesh by creatively designing and implementing diverse, engaging curriculum content for multiple Ed-Tech startups like [Progga](https://play.google.com/store/apps/details?id=io.progga.app&hl=en_US&gl=US&pli=1) and [Banglar Math](https://draft.banglarmath.com/), combining strategic planning with dynamic voiceovers. [Content](https://www.youtube.com/watch?v=d57oobCrmGU) covered breakdown explaination of scientific contents for mass audience.
-## STEM Podcast
+### STEM Podcast
 Crafted a series of inspirational podcasts called [EMK MakerCast](https://www.youtube.com/watch?v=YVrZPyGXq50&list=PLGjf1T0akmhNQ72q7aaOFNktSOMhxOA0F) in partnership with the EMK Center to ignite passion for STEM education in Bangladesh. This groundbreaking initiative showcased the country's top experts in 3D modeling, AR/VR, game design, e-gaming, and women's achievements in STEM, strategically weaving their insights into a captivating auditory experience.
 
 
