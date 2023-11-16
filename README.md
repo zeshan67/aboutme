@@ -174,7 +174,7 @@ Awarded by CAPLA & Friedmann foundation to explore North American cities.
 
 ### • [Erusmus Mundus-Transition, Innovation, Sunstainability and Environment](https://www.donau-uni.ac.at/en/studies/transition-innovation-and-sustainability-environments-tise.html),June 2022
 
-Selected as the only candidate from Bangladesh to attend European Union funded TISE program with full funding & stipend.
+Selected as the only candidate from Bangladesh in 2022 to attend European Union funded TISE program with full funding & stipend.
 
 ### •BUET Technical Scholarship, February 2013
 
@@ -207,7 +207,7 @@ Suzhou, China. (Status: [Pre-print](https://www.xarchsymposium.com/preprints))
 
 ### Zahin, H. A., & Zeshan, A. H. (2022, April). Habitat 2.0: Design Approach toward a transplanetary multispecies settlement for coexistence. 
 
-Presentation at the [Bio-Futures for Transplanetary Habitats Symposium](http://bbe.ac.uk/bffth-symposium/), organized by Hub for
+[Presentation](https://www.youtube.com/watch?v=SUcJBvSZKgI&t=3830s) at the [Bio-Futures for Transplanetary Habitats Symposium](http://bbe.ac.uk/bffth-symposium/), organized by Hub for
 Biotechnology in the Built Environment (HBBE), Newcastle University, United Kingdom. (Hybrid event).
 
 ### Zeshan, A. H. (2023, November). Rediscovering places: Learning backwards in time
