@@ -161,9 +161,12 @@ Responsibilities:
 
 ## Projects:
 ![The_Long_Render](https://github.com/zeshan67/aboutme/assets/94588272/c9a7397c-10c3-41c2-bdbd-2e0b0973ceef)
-### [Architectural projects](https://www.asifhasanzeshan.xyz/projects)
+### Architectural projects
+In diverse academic, competitive, and professional spheres, I've delivered a series of innovative architectural projects, garnering numerous national and international honors. My portfolio highlights my focus on integrating cutting-edge technology into architectural practices and advancing energy efficiency.Samples of my work can be found on my portfolio [website](https://www.asifhasanzeshan.xyz/projects)
+
 ### Educational Visualization
 Revolutionized STEM education for middle and high school students in Bangladesh by creatively designing and implementing diverse, engaging curriculum content for multiple Ed-Tech startups like [Progga](https://play.google.com/store/apps/details?id=io.progga.app&hl=en_US&gl=US&pli=1) and [Banglar Math](https://draft.banglarmath.com/), combining strategic planning with dynamic voiceovers. [Content](https://www.youtube.com/watch?v=d57oobCrmGU) covered breakdown explaination of scientific contents for mass audience.
+
 ### STEM Podcast
 Crafted a series of inspirational podcasts called [EMK MakerCast](https://www.youtube.com/watch?v=YVrZPyGXq50&list=PLGjf1T0akmhNQ72q7aaOFNktSOMhxOA0F) in partnership with the EMK Center to ignite passion for STEM education in Bangladesh. This groundbreaking initiative showcased the country's top experts in 3D modeling, AR/VR, game design, e-gaming, and women's achievements in STEM, strategically weaving their insights into a captivating auditory experience.
 
