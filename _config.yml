@@ -3,3 +3,4 @@ logo: /assets/img/Headshot.png
 description: "Juggling today's chaos with an eye on crafting a calmer tomorrow"
 show_downloads: false
 theme: jekyll-theme-minimal
+<link rel="stylesheet" href="style.css">
