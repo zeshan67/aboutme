@@ -8,7 +8,7 @@
 
 Expected: Spring 2024
 
-Thesis: [“Integrating Artiﬁcial Intelligence in post-humanist architectural design process”](https://drive.google.com/file/d/13D88IccCLfBgKD-2DKz4QO-wIoeqgRfw/view?usp=sharing)
+Thesis: "[Integrating Artiﬁcial Intelligence in post-humanist architectural design process](https://drive.google.com/file/d/13D88IccCLfBgKD-2DKz4QO-wIoeqgRfw/view?usp=sharing)"
 
 Advisor: Ms. Susannah R. Dickinson, Associate Professor, CAPLA, University of Arizona.
 
@@ -17,8 +17,7 @@ Advisor: Ms. Susannah R. Dickinson, Associate Professor, CAPLA, University of Ar
 
 February 2021
 
-Graduation project: [“Workspace 2070: A glimpse into the future of workspace architecture”](https://amazingarchitecture.com/students/workspace-2070-a-glimpse-into-the-future-of-workplace-architecture-by-asif-hasan-zeshan)
-
+Graduation project: “[Workspace 2070: A glimpse into the future of workspace architecture](https://amazingarchitecture.com/students/workspace-2070-a-glimpse-into-the-future-of-workplace-architecture-by-asif-hasan-zeshan)”
 Supervisor: Professor Dr. Khandaker Shabbir Ahmed, Professor, BUET
 
 ## RESEARCH INTEREST
