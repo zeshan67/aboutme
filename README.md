@@ -31,6 +31,8 @@ Supervisor: Professor Dr. Khandaker Shabbir Ahmed, Professor, BUET
 
 Supervisor: Dr. Altaf Engineer & Dr. Sandra Bernal
 
+Project: [Health Sciences Library Visioning & Space Planning Project](https://drachmaninstitute.arizona.edu/health-sciences-library-visioning-space-planning-project)
+
 Research Domain(s):
 • Resarching the process of user centric design vision development process in a health science environment.
 • Developing a system of feedback oriented space planning system on the pre-design phase.
@@ -39,6 +41,8 @@ Research Domain(s):
 **College of Architecture, Planning & Landscape Architecture, University of Arizona**
 
 Supervisor: Susannah Dickinson
+
+Published Paper: [Green waste to green architecture: optimizing urban tree systems for renewable construction material supply chains.](https://www.researchgate.net/publication/370102817_Green_waste_to_green_architecture_optimizing_urban_tree_systems_for_renewable_construction_material_supply_chains)
 
 Research Domain(s):
 • Experimenting with the possibility of recycling sawdust of Mesquite timber construction as a 3D print material
