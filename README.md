@@ -8,7 +8,7 @@
 
 Expected: Spring 2024
 
-Thesis: "[Integrating Artiﬁcial Intelligence in post-humanist architectural design process](https://drive.google.com/file/d/13D88IccCLfBgKD-2DKz4QO-wIoeqgRfw/view?usp=sharing)"
+Thesis (Ongoing): "[Integrating Artiﬁcial Intelligence in post-humanist architectural design process](https://drive.google.com/file/d/13D88IccCLfBgKD-2DKz4QO-wIoeqgRfw/view?usp=sharing)"
 
 Advisor: Ms. Susannah R. Dickinson, Associate Professor, CAPLA, University of Arizona.
 
