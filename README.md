@@ -248,19 +248,19 @@ Crafted a series of inspirational podcasts called [EMK MakerCast](https://www.yo
 
 
 ## TECHNICAL SKILLS:
-### Computer Aided Design Tools:
+### Computer Aided Design & 3D Modeling Tools:
 
-**Proﬁcient in:** Autodesk AutoCAD, Graphisoft ArchiCAD, Autodesk Revit, Rhinoceros 3D, Sketchup.
+**Proﬁcient in:** Autodesk AutoCAD, Graphisoft ArchiCAD, Autodesk Revit, Rhinoceros 3D, Sketchup and Blender
 
 ### Programming and visual programming Tools:
 
 **Proﬁcient in:** Grasshopper,
 
-**Knowledge of:** Python, R Programming, Dynamo, Javascript, Arduino & C#, Pytorch3D Deep Learning
+**Knowledge of:** Python, R Programming, Dynamo (Revit), Node.js, Arduino & C#, Pytorch3D (Deep Learning)
 
 ### Rendering, 3D interactive and 3D visualization tools:
 
-**Proﬁcient in:** Enscape, V-Ray. 
+**Proﬁcient in:** Enscape, V-Ray.
 
 **Knowledge of:** Lumion, Unity (Vuforia SDK).
 
