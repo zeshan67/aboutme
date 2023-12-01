@@ -126,7 +126,7 @@ Banani Model Town, Dhaka-1213.
 
 ### [Placemaking Bangladesh](https://www.facebook.com/placemakingbangladesh/)
 
-A non-profit based in Bangladesh working to ensure accssible public spaces for everyone
+A non-profit based in Bangladesh working to ensure accssible public spaces for everyone. Placemaking Bangladesh works as a local hub for the global placemaking movement as a partner for [PlacemakingX](https://www.placemakingx.org/)
 
 **Founder**
 
