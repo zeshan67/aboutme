@@ -202,9 +202,8 @@ August 2023
 August 2020
 
 ## PUBLICATION:
-• Zeshan, A. H., & Dickinson, S. (2023, November). Meta-morphing architectural domains: The Role of Human and AI in
-Post-Human Architecture. Paper to be presented at the xArch Symposium 2023, Xi'an Jiaotong-Liverpool University,
-Suzhou, China. (Status: [Pre-print](https://www.xarchsymposium.com/preprints))
+• Zeshan, A.H., Dickinson, S. (2024). Meta-morphing Architectural Domains: The Role of Humans and AI in Post-human Architecture. In: Di Marco, G., Lombardi, D., Tedjosaputro, M. (eds) Creativity in the Age of Digital Reproduction. 
+xArch 2023. Lecture Notes in Civil Engineering, vol 343. Springer, Singapore. [https://doi.org/10.1007/978-981-97-0621-1_30](https://link.springer.com/chapter/10.1007/978-981-97-0621-1_30)
 
 ## CONFERENCE PRESENTATION:
 ![Conference_pres](https://github.com/zeshan67/aboutme/assets/94588272/9b099b04-d652-475e-a3bd-da26d48856e1)
