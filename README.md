@@ -67,7 +67,15 @@ Research Domain(s):
   Course Teacher: Charlotte Algie, Lecturer, CAPLA, University of Arizona
 
   Responsibilities:
-  • Aiding with sessional activities teaching computational simulation and construction process.
+  • Aiding with sessional activities teaching computational simulation (Intermediate Grasshopper) and fabrication process (3D Printing, Hotwire & CNC).
+  • Responsible for grading management and help with evaluation of student’s work process.
+
+  *Spring 2024: ARC241: Techne II*
+  
+  Course Teacher: Susannah Dickinson, Associate Professor, CAPLA, University of Arizona
+
+  Responsibilities:
+  • Aiding with sessional activities teaching computational simulation (Fundamental Grasshopper) and fabrication process (3D printing & CNC).
   • Responsible for grading management and help with evaluation of student’s work process.
 
 ### Lecturer (December 2021-September 2022)
