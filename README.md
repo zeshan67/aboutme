@@ -145,7 +145,7 @@ Youth network based in Asia working towards climate conciousness and climate jus
 **Mentor**
 
 ## HONORS & AWARDS:
-[MetRAV_MS2016](https://github.com/zeshan67/aboutme/assets/94588272/084710ca-898e-4807-9ac1-275b8a4cdcfc)
+![image](https://github.com/zeshan67/aboutme/assets/94588272/e9cec938-3388-485f-a681-67496496c13e)
 ### • [MS Arch Thesis Research Award](https://www.linkedin.com/posts/zeshan67_honored-to-recieve-ms-arch-research-of-the-activity-7194741320957976576-v3K8?utm_source=share&utm_medium=member_desktop)
 
 Awared the best research of the year award for 2024 by CAPLA, University of Arizona
