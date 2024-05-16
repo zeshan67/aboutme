@@ -6,9 +6,9 @@
 ### Master of Science in Architecture (MS.Arch.)
 **[College of Architecture, Planning & Landscape Architecture](https://capla.arizona.edu/), [University of Arizona](https://www.arizona.edu/)**
 
-Expected: Spring 2024
+May 2024
 
-Thesis [Ongoing]: "[Integrating Artiﬁcial Intelligence in post-humanist architectural design process](https://drive.google.com/file/d/13D88IccCLfBgKD-2DKz4QO-wIoeqgRfw/view?usp=sharing)"
+Thesis: "[Transcending Object: A Critical Evaluation of Integration of Ai with Architecture](https://www.proquest.com/pqdtglobal/docview/3054384306/873BD13575194965PQ/1?%20Theses&sourcetype=Dissertations%20)"
 
 Chair: Ms. Susannah R. Dickinson, Associate Professor, CAPLA, University of Arizona.
 
@@ -22,11 +22,11 @@ Graduation project: “[Workspace 2070: A glimpse into the future of workspace a
 Supervisor: Professor Dr. Khandaker Shabbir Ahmed, Professor, BUET
 
 ## RESEARCH INTEREST
-• Integration of Post human intelligence in architectural and visual communication
-• Interaction design and immersiveness between cyber and physcal spaces
+• Integration of Post human intelligence in architectural design
+• Cognitive and Behavioural computing in 3D cyber-physical space interaction
 
 ## **RESEARCH EXPERIENCE**
-### Graduate Research Assistant-HSL Drachman (September 2022- Present)
+### Graduate Research Assistant-HSL Drachman (September 2022- February 2024)
 **Drachman Institute, College of Architecture, Planning & Landscape Architecture, University of Arizona**
 
 Supervisor: Dr. Altaf Engineer & Dr. Sandra Bernal
@@ -50,7 +50,7 @@ Research Domain(s):
 
 ## **TEACHING & MENTORING EXPERIENCE:**
 
-### Graduate Teaching Assistant (January 2023-Present)
+### Graduate Teaching Assistant (January 2023-May 2024)
 **College of Architecture, Planning & Landscape Architecture, University of Arizona**
 
   *Spring 2023: ARC160D: Sonora*
@@ -145,7 +145,10 @@ Youth network based in Asia working towards climate conciousness and climate jus
 **Mentor**
 
 ## HONORS & AWARDS:
-![MetRAV_MS2016](https://github.com/zeshan67/aboutme/assets/94588272/084710ca-898e-4807-9ac1-275b8a4cdcfc)
+[MetRAV_MS2016](https://github.com/zeshan67/aboutme/assets/94588272/084710ca-898e-4807-9ac1-275b8a4cdcfc)
+### • [MS Arch Thesis Research Award](https://www.linkedin.com/posts/zeshan67_honored-to-recieve-ms-arch-research-of-the-activity-7194741320957976576-v3K8?utm_source=share&utm_medium=member_desktop)
+
+Awared the best research of the year award for 2024 by CAPLA, University of Arizona
 ### • [UNI Portfolio Award 2021](https://uni.xyz/competitions/upa-21/entries)
 
 Editor’s Choice Award, May 2021, Selected as one of top 5 entries from a global pool of 400.
@@ -193,7 +196,9 @@ Selected as the only candidate from Bangladesh in 2022 to attend European Union 
 Tuition waiver and stipend to fund for undergraduate study for excellent academic standings on the higher secondary level.
 
 ## LISCENCES & CERTIFICATIONS:
+### • LEED Green Assocaite, US Green Building Council
 
+April, 2024
 ### • Associate Member, Institute of Architects Bangladesh,
 
 August 2021
