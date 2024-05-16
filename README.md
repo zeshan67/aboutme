@@ -49,7 +49,7 @@ Research Domain(s):
 • Creating window to maximize material efﬁciency in the Sonoran desert.
 
 ## **TEACHING & MENTORING EXPERIENCE:**
-
+![image](https://github.com/zeshan67/aboutme/assets/94588272/2b0926bf-d159-48d8-881d-dd0153710639)
 ### Graduate Teaching Assistant (January 2023-May 2024)
 **College of Architecture, Planning & Landscape Architecture, University of Arizona**
 
